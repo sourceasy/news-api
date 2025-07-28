@@ -1,0 +1,1400 @@
+COMPREHENSIVE RSS SCRAPE - 2025-07-28 13:46:39.449636+05:30
+================================================================================
+
+SOURCE: Economic Times
+==================================================
+Trying: https://economictimes.indiatimes.com/rssfeedstopstories.cms
+✅ SUCCESS! Status: 200
+📰 Total Entries: 51
+
+ARTICLE 1:
+Title: ET Wealth | How PGIM MF CEO is retiring at 55
+Link: https://economictimes.indiatimes.com/wealth/plan/early-retirement-how-financial-planning-helped-this-seasoned-market-veteran-retire-early-at-55/articleshow/122917922.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+
+ARTICLE 2:
+Title: SC quizzes Justice Yashwant Varma over his petition
+Link: https://economictimes.indiatimes.com/news/india/cash-discovery-row-sc-questions-justice-yashwant-varma-over-his-petition/articleshow/122948667.cms
+Published: Mon, 28 Jul 2025 13:04:10 +0530
+
+ARTICLE 3:
+Title: Check state wise bank holidays in August 2025
+Link: https://economictimes.indiatimes.com/wealth/save/august-bank-holidays-list-check-state-wise-bank-holidays-in-august-2025/articleshow/122919512.cms
+Published: Sun, 27 Jul 2025 08:00:00 +0530
+
+ARTICLE 4:
+Title: India cautious as US deals with Japan, others unravel
+Link: https://economictimes.indiatimes.com/news/economy/foreign-trade/india-cautious-as-us-deals-with-japan-others-unravel/articleshow/122939894.cms
+Published: Mon, 28 Jul 2025 00:36:15 +0530
+
+ARTICLE 5:
+Title: No tax for wife who sold husband’s flats for 6 cr
+Link: https://economictimes.indiatimes.com/wealth/legal/will/wife-pays-no-income-tax-after-selling-2-houses-for-rs-6-crore-gifted-by-her-husband-wins-case-in-itat-mumbai-heres-how-it-happened/articleshow/122905982.cms
+Published: Sun, 27 Jul 2025 09:12:00 +0530
+
+ARTICLE 6:
+Title: For Donald Trump, EU trade deal was badly needed
+Link: https://economictimes.indiatimes.com/news/international/global-trends/for-trump-eu-trade-deal-was-badly-needed/articleshow/122943372.cms
+Published: Mon, 28 Jul 2025 08:02:12 +0530
+
+ARTICLE 7:
+Title: This much needed for secure retirement: HSBC Survey
+Link: https://economictimes.indiatimes.com/wealth/invest/3-5-crore-needed-for-comfortable-and-secure-retirement-in-india-hsbc-affluent-investor-survey-2025/articleshow/122918211.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+
+ARTICLE 8:
+Title: Muslim cleric booked for remarks on Dimple Yadav
+Link: https://economictimes.indiatimes.com/news/politics-and-nation/muslim-cleric-booked-for-objectionable-remarks-on-sp-mp-dimple-yadav/articleshow/122948664.cms
+Published: Mon, 28 Jul 2025 13:04:04 +0530
+
+ARTICLE 9:
+Title: Save tax in new tax regime: Here are 6 smart ways
+Link: https://economictimes.indiatimes.com/wealth/tax/save-tax-in-new-tax-regime-here-are-6-smart-ways/articleshow/122916524.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+
+ARTICLE 10:
+Title: India should not engage with Pak: Abhishek Banerjee
+Link: https://economictimes.indiatimes.com/news/politics-and-nation/india-should-not-engage-with-pakistan-in-any-sphere-abhishek-banerjee/articleshow/122948245.cms
+Published: Mon, 28 Jul 2025 12:46:18 +0530
+
+ARTICLE 11:
+Title: SIFs offer PMS-type yields but should you rush in?
+Link: https://economictimes.indiatimes.com/wealth/invest/specialised-investment-funds-can-offer-retail-mf-investors-access-to-pms-type-investing-but-should-you-rush-in/articleshow/122917144.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+
+ARTICLE 12:
+Title: Gunman kills 6 in 'mass shooting' in Thailand
+Link: https://economictimes.indiatimes.com/news/international/global-trends/gunman-kills-four-in-mass-shooting-in-thailands-bangkok/articleshow/122947856.cms
+Published: Mon, 28 Jul 2025 12:27:49 +0530
+
+ARTICLE 13:
+Title: How to get the most out of hotel stays
+Link: https://economictimes.indiatimes.com/wealth/spend/hotel-loyalty-programmes-can-get-you-free-stays-upgrades-elite-perks-heres-how/articleshow/122917746.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+
+ARTICLE 14:
+Title: HC to hear pleas against Udaipur Files on July 30
+Link: https://economictimes.indiatimes.com/news/india/delhi-hc-to-hear-on-july-30-pleas-against-centres-nod-to-release-udaipur-files-film/articleshow/122947669.cms
+Published: Mon, 28 Jul 2025 12:21:15 +0530
+
+ARTICLE 15:
+Title: 6 steps to start a gym business &amp; make it succeed
+Link: https://economictimes.indiatimes.com/wealth/plan/how-to-start-a-gym-business-and-make-it-succeed-heres-a-6-step-guide/articleshow/122918497.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+
+ARTICLE 16:
+Title: Top gas importer Petronet seeks Rs 12000 cr loan
+Link: https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-top-gas-importer-petronet-seeks-rs-12000-crore-loan/articleshow/122947719.cms
+Published: Mon, 28 Jul 2025 12:22:27 +0530
+
+ARTICLE 17:
+Title: What a healthy credit score can get you
+Link: https://economictimes.indiatimes.com/wealth/borrow/how-to-improve-credit-score-to-get-quicker-loan-approvals-lower-interest-rates/articleshow/122918648.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+
+ARTICLE 18:
+Title: Samsung’s fall warns a bad Apple may spoil the bunch
+Link: https://economictimes.indiatimes.com/industry/cons-products/electronics/samsungs-fy26-q1-exports-fall-20-as-pli-benefits-end-apple-dixon-may-be-next/articleshow/122939415.cms
+Published: Mon, 28 Jul 2025 06:02:00 +0530
+
+ARTICLE 19:
+Title: 3% or 4%, what will be last DA hike under 7th CPC?
+Link: https://economictimes.indiatimes.com/wealth/save/last-da-hike-of-3-or-4-under-7th-cpc-in-july-2025-central-government-employees-can-get-this-much-increase-in-dearness-allowance/articleshow/122931457.cms
+Published: Sun, 27 Jul 2025 10:15:49 +0530
+
+ARTICLE 20:
+Title: Gambling den? Derivatives boom raises eyebrows
+Link: https://economictimes.indiatimes.com/opinion/et-commentary/indias-derivatives-boom-raises-eyebrows/articleshow/122939045.cms
+Published: Sun, 27 Jul 2025 23:42:18 +0530
+
+ARTICLE 21:
+Title: More scope for Indian investment in UK: Aiyar
+Link: https://economictimes.indiatimes.com/markets/expert-view/there-is-more-scope-for-indian-investment-in-the-uk-than-the-other-way-around-swaminathan-aiyar/articleshow/122946540.cms
+Published: Mon, 28 Jul 2025 11:29:24 +0530
+🏷️ Categories: Business News
+
+ARTICLE 22:
+Title: 'Loktantra par var': Opposition protest SIR issue
+Link: https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar/loktantra-par-var-opposition-mps-protest-on-sir-issue-kharge-rahul-sonia-akhilesh-among-protestors/articleshow/122946491.cms
+Published: Mon, 28 Jul 2025 11:22:28 +0530
+
+ARTICLE 23:
+Title: Tata Trusts meeting for IPO plans &amp; a likely surprise
+Link: https://economictimes.indiatimes.com/markets/ipos/fpos/tata-trusts-to-discuss-tata-sons-listing-status-and-board-changes-amid-rbi-deadline/articleshow/122942611.cms
+Published: Mon, 28 Jul 2025 06:15:01 +0530
+
+ARTICLE 24:
+Title: TCS shares face D-St heat after 12,000-job cut plan
+Link: https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-in-focus-as-company-announces-layoffs-of-over-12000-employees/articleshow/122944498.cms
+Published: Mon, 28 Jul 2025 09:31:11 +0530
+🏷️ Categories: Business News
+
+ARTICLE 25:
+Title: Trump’s EU deal: 15% tax, energy, arms buys &amp; more
+Link: https://economictimes.indiatimes.com/news/international/global-trends/trump-sets-a-tariff-of-15-pc-on-eu-here-are-the-key-aspects-of-the-trade-deal/articleshow/122938807.cms
+Published: Sun, 27 Jul 2025 23:48:05 +0530
+
+ARTICLE 26:
+Title: How a Mexican tomato exporter hit by Trump tariffs
+Link: https://economictimes.indiatimes.com/small-biz/trade/exports/insights/heres-how-a-major-mexican-tomato-exporter-is-affected-by-trumps-17-tariff/articleshow/122945220.cms
+Published: Mon, 28 Jul 2025 10:19:01 +0530
+🏷️ Categories: Events & Conferences
+
+ARTICLE 27:
+Title: How to empower your domestic help financially
+Link: https://economictimes.indiatimes.com/wealth/plan/from-jan-dhan-accounts-to-mutual-fund-sips-here-is-how-you-can-empower-your-domestic-staff-financially/articleshow/122917522.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+
+ARTICLE 28:
+Title: Trade deal to help Indian workers in UK: Swami Aiyar
+Link: https://economictimes.indiatimes.com/markets/expert-view/india-uk-trade-deal-not-historic-but-should-help-indian-workers-in-uk-swaminathan-aiyar/articleshow/122945645.cms
+Published: Mon, 28 Jul 2025 10:44:29 +0530
+
+ARTICLE 29:
+Title: Trump pauses export controls for China trade deal
+Link: https://economictimes.indiatimes.com/news/international/global-trends/trump-pauses-export-controls-to-bolster-china-trade-deal-report/articleshow/122945527.cms
+Published: Mon, 28 Jul 2025 10:31:04 +0530
+🏷️ Categories: Events & Conferences
+
+ARTICLE 30:
+Title: BJP seeks NDA MPs’ presence for Op Sindoor debate
+Link: https://economictimes.indiatimes.com/news/politics-and-nation/parliament-monsoon-session-bjp-calls-upon-nda-mps-for-show-of-strength-in-operation-sindoor-discussion/articleshow/122944232.cms
+Published: Mon, 28 Jul 2025 09:10:56 +0530
+
+ARTICLE 31:
+Title: These 4 cos are outperforming despite mkt headwinds
+Link: https://economictimes.indiatimes.com/wealth/invest/4-companies-which-are-outperforming-despite-stock-market-headwinds-due-to-higher-roe/articleshow/122916636.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+
+ARTICLE 32:
+Title: Why Rudra may be a game-changer against China, Pak
+Link: https://economictimes.indiatimes.com/news/new-updates/fast-furious-and-future-ready-why-indian-armys-rudra-brigade-could-be-a-game-changer-against-china-and-pakistan/articleshow/122944381.cms
+Published: Mon, 28 Jul 2025 10:21:21 +0530
+
+ARTICLE 33:
+Title: Sebi’s proposed MF revamp: Hits &amp; misses
+Link: https://economictimes.indiatimes.com/wealth/invest/sebis-proposed-mutual-fund-revamp-tackles-multiple-problems-but-misses-these-outdated-rules/articleshow/122917211.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+
+ARTICLE 34:
+Title: Are mkt valuations hiding opportunities or risks?
+Link: https://economictimes.indiatimes.com/markets/expert-view/are-current-market-valuations-hiding-opportunities-or-risks-christy-mathai-explains/articleshow/122919427.cms
+Published: Mon, 28 Jul 2025 08:11:00 +0530
+
+ARTICLE 35:
+Title: Will minimum EPS-95 pension be hiked? Govt answers
+Link: https://economictimes.indiatimes.com/wealth/save/will-minimum-eps-95-pension-be-hiked-this-festive-season-govt-responds-in-parliament/articleshow/122948249.cms
+Published: Mon, 28 Jul 2025 13:02:01 +0530
+
+ARTICLE 36:
+Title: World's most beautiful airport in 2025 revealed
+Link: https://economictimes.indiatimes.com/nri/visit/changi-airport-worlds-most-beautiful-airport-in-2025-revealed-and-no-its-not-singapores-changi/articleshow/122943853.cms
+Published: Mon, 28 Jul 2025 08:59:26 +0530
+
+ARTICLE 37:
+Title: Which stock mkt cap gave most returns in last 10 yrs?
+Link: https://economictimes.indiatimes.com/wealth/invest/which-stock-market-cap-segment-gave-most-returns-in-last-10-years-heres-an-annual-performance-tracker/articleshow/122918148.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+🏷️ Categories: Supply & Demand
+
+ARTICLE 38:
+Title: Angel investors in India will become rarer than tigers
+Link: https://economictimes.indiatimes.com/news/economy/policy/angel-investors-in-india-will-become-rarer-than-tigers/articleshow/122943780.cms
+Published: Mon, 28 Jul 2025 08:35:25 +0530
+
+ARTICLE 39:
+Title: What is clubbing provision in Income Tax Act?
+Link: https://economictimes.indiatimes.com/wealth/tax/what-is-clubbing-provision-in-income-tax-act-when-is-it-applicable/articleshow/122908821.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+
+ARTICLE 40:
+Title: Samsung to produce Tesla chips in $16.5 bn deal
+Link: https://economictimes.indiatimes.com/news/international/business/samsung-to-produce-tesla-chips-in-16-5-billion-multiyear-deal/articleshow/122943718.cms
+Published: Mon, 28 Jul 2025 08:28:45 +0530
+
+ARTICLE 41:
+Title: Why emergency fund is must in investment portfolio
+Link: https://economictimes.indiatimes.com/wealth/plan/an-emergency-fund-for-tackling-sudden-financial-crises-must-be-a-part-of-your-investment-portfolio-heres-why/articleshow/122918668.cms
+Published: Mon, 28 Jul 2025 06:30:00 +0530
+🏷️ Categories: Business News
+
+ARTICLE 42:
+Title: Why freshers are missing in IT hiring
+Link: https://economictimes.indiatimes.com/jobs/fresher/ais-quiet-takeover-why-freshers-are-missing-in-it-hiring/articleshow/122948560.cms
+Published: Mon, 28 Jul 2025 13:18:02 +0530
+🏷️ Categories: Chemical Pricing, Innovation & Discovery
+Summary: India’s largest IT services companies are quietly reshaping their hiring playbooks—and freshers are feeling the heat, The Times of India has reported. In a sign of changing priorities, net employee ad...
+
+ARTICLE 43:
+Title: Office realty leasing rises 30%, on track to beat last year high
+Link: https://economictimes.indiatimes.com/news/company/corporate-trends/office-realty-leasing-rises-30-on-track-to-beat-last-year-high/articleshow/71641557.cms
+Published: Fri, 18 Oct 2019 08:18:48 +0530
+🏷️ Categories: Chemical Pricing, Business News, Innovation & Discovery, Regulatory
+Summary: Mumbai: Robust demand for office spaces has pushed commercial property leasing in the first three quarters of 2019 by 30% from a year ago, taking it closer to entire 2018’s performance and making sure...
+
+ARTICLE 44:
+Title: Developers may face liquidity crisis on NBFC woes: Fitch
+Link: https://economictimes.indiatimes.com/industry/services/property-/-cstruction/developers-may-face-liquidity-crisis-on-nbfc-woes-fitch/articleshow/70700244.cms
+Published: Fri, 16 Aug 2019 15:59:50 +0530
+🏷️ Categories: Chemical Pricing, Supply & Demand, Business News, Events & Conferences, Regulatory
+Summary: MUMBAI: Liquidity risk is increasing for Indian-based real-estate developers, as non-bank financial institutions (NBFI; including housing finance companies) are shying away from lending to the sector,...
+
+ARTICLE 45:
+Title: Adani Green to seek board nod to raise up to $1 billion
+Link: https://economictimes.indiatimes.com/industry/banking/finance/adani-green-to-seek-board-nod-to-raise-up-to-1-billion/articleshow/100459690.cms
+Published: Wed, 24 May 2023 06:36:08 +0530
+🏷️ Categories: Chemical Pricing, Supply & Demand, Chemical Products, Business News, Innovation & Discovery
+Summary: Adani Green Energy is set to seek board approval to raise Rs 6,150 crore ($750 million) to Rs 8,200 crore ($1 billion) through the qualified institutional placement (QIP) route, said people aware of t...
+
+ARTICLE 46:
+Title: At Rs 10,000 crore, Anil Ambani's Reliance Capital recovery may be only 43%
+Link: https://economictimes.indiatimes.com/industry/banking/finance/at-rs-10000-crore-anil-ambanis-reliance-capital-recovery-may-be-only-43/articleshow/100459486.cms
+Published: Wed, 24 May 2023 06:01:03 +0530
+🏷️ Categories: Chemical Pricing, Business News, Innovation & Discovery
+Summary: Lenders to Anil Ambani-promoted Reliance Capital are likely to recover just about ₹10,000 crore after the winning bidder, Hinduja Group, declined to significantly improve its offer in the last round o...
+
+ARTICLE 47:
+Title: Laurus Labs shares jump over 7% after securing land allotment in Andhra Pradesh
+Link: https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shares-jump-over-7-after-securing-land-allotment-in-andhra-pradesh/articleshow/122946360.cms
+Published: Mon, 28 Jul 2025 11:18:15 +0530
+🏷️ Categories: Chemical Pricing, Supply & Demand, Chemical Products, Business News, Innovation & Discovery, Regulatory
+Summary: Laurus Labs shares climbed 7.5% to Rs 901 apiece on the BSE on Monday after the Andhra Pradesh government allotted 531.77 acres to the company in IP Rambilli Phase-II, Anakapalli district. The land wi...
+
+ARTICLE 48:
+Title: CarTrade Tech shares rally 9% to a record high after Q1 profit more than doubles
+Link: https://economictimes.indiatimes.com/markets/stocks/news/cartrade-tech-shares-rally-9-to-a-record-high-after-q1-profit-more-than-doubles/articleshow/122947952.cms
+Published: Mon, 28 Jul 2025 12:31:46 +0530
+🏷️ Categories: Supply & Demand
+Summary: Shares of CarTrade Tech climbed as much as 9% on Monday, July 28, to a 52-week high of Rs 2,068.85 on the BSE after the company reported a sharp rise in quarterly profit and revenue, driven by growth ...
+
+ARTICLE 49:
+Title: Apple faces Indian engineer’s bias lawsuit
+Link: https://economictimes.indiatimes.com/tech/technology/apple-faces-indian-engineers-bias-lawsuit/articleshow/81694292.cms
+Published: Thu, 25 Mar 2021 23:14:01 +0530
+Summary: Apple Inc. lost an early round in a discrimination lawsuit brought in the U.S. by a female engineer from India who says her two managers -- one from her country, the other from Pakistan -- treated her...
+
+ARTICLE 50:
+Title: Ravi Shankar Prasad questions Arnab Goswami's arrest
+Link: https://economictimes.indiatimes.com/news/politics-and-nation/ravi-shankar-prasad-questions-arnab-goswamis-arrest/articleshow/79035225.cms
+Published: Wed, 04 Nov 2020 11:10:34 +0530
+🏷️ Categories: Regulatory
+Summary: NEW DELHI: Law Minister and senior BJP leader Ravi Shankar Prasad on Wednesday described the arrest of Republic TV Editor-in-Chief Arnab Goswami as "seriously reprehensible, unwarranted and worrisome....
+
+ARTICLE 51:
+Title: Delhi govt to recruit 15,000 more home guard personnel: LG
+Link: https://economictimes.indiatimes.com/jobs/government-jobs/delhi-govt-to-recruit-15000-more-home-guard-personnel-lg/articleshow/115980286.cms
+Published: Wed, 04 Dec 2024 22:15:01 +0530
+🏷️ Categories: Events & Conferences, Regulatory
+Summary: New Delhi: The Delhi government will recruit 15,000 home guards, taking their total number to 25,000, an official statement said on Wednesday.  Delhi LG VK Saxena on Tuesday distributed letters of enr...
+
+✅ Economic Times: Working URL found - https://economictimes.indiatimes.com/rssfeedstopstories.cms
+📊 Articles collected: 51
+
+--------------------------------------------------------------------------------
+
+SOURCE: Business Standard
+==================================================
+Trying: https://www.business-standard.com/rss/current/rss.xml
+❌ Failed (Status: Error)
+Trying: https://www.business-standard.com/rss/companies-101.rss
+✅ SUCCESS! Status: 200
+📰 Total Entries: 35
+
+ARTICLE 1:
+Title: Airtel's Nxtra raises renewable energy sourcing deal with Ampin to 200 MW
+Link: https://www.business-standard.com/companies/news/airtel-s-nxtra-raises-renewable-energy-sourcing-deal-with-ampin-to-200-mw-125072800485_1.html
+Published: Mon, 28 Jul 2025 12:51:23 +0530
+🏷️ Categories: Business News, Innovation & Discovery
+Summary: Nxtra by Airtel on Monday said it will source additional 125.65 megawatt renewable energy from Ampin Energy under a fresh agreement signed between the two companies.
+With this, the total renewable ene...
+
+ARTICLE 2:
+Title: Tata Sons expects reprieve from IPO deadline amid RBI rule review
+Link: https://www.business-standard.com/markets/ipo/tata-sons-expects-reprieve-from-ipo-deadline-amid-rbi-rule-review-125072800199_1.html
+Published: Mon, 28 Jul 2025 09:55:10 +0530
+Summary: The RBI had earlier classified Tata Sons as a top tier non-banking lender, forcing it to list by September this year...
+
+ARTICLE 3:
+Title: Ola's AI venture Krutrim lays off over 100, axes Kruti's linguistics team
+Link: https://www.business-standard.com/companies/news/ola-krutrim-ai-layoffs-kukri-linguistics-team-bhavish-aggarwal-125072800163_1.html
+Published: Mon, 28 Jul 2025 09:25:37 +0530
+🏷️ Categories: Business News
+Summary: Bhavish Aggarwal's AI venture cuts its workforce in second round of layoffs as fundraising falters and Kruti's training nears completion...
+
+ARTICLE 4:
+Title: Q1 results today: Adani Green, Mazagon, BEL, Gail among 92 on July 28
+Link: https://www.business-standard.com/companies/quarterly-results/q1-results-adani-green-mazagon-bel-gail-indusind-bank-bajaj-healthcare-125072800091_1.html
+Published: Mon, 28 Jul 2025 08:37:07 +0530
+Summary: Q1 FY26 company results, July 28: Bajaj Healthcare, Esaar India, IndusInd Bank, Piramal Pharma, and  NTPC Green will also release their April-June quarter earnings reports today...
+
+ARTICLE 5:
+Title: IndiGo to add more int'l destinations; to explore new MRO opportunities
+Link: https://www.business-standard.com/companies/news/indigo-to-add-more-int-l-destinations-to-explore-new-mro-opportunities-125072700665_1.html
+Published: Sun, 27 Jul 2025 22:20:43 +0530
+🏷️ Categories: Chemical Pricing, Business News
+Summary: IndiGo will continue to add more overseas destinations with A321 XLRs set to join the fleet this fiscal year and aims to increase its international capacity share to 40 per cent by 2030.
+Also, the cou...
+
+ARTICLE 6:
+Title: DoT issues ₹7,800 cr demand notice to Tata Communications over AGR dues
+Link: https://www.business-standard.com/companies/news/dot-issues-7-800-cr-demand-notice-to-tata-communications-over-agr-dues-125072700489_1.html
+Published: Sun, 27 Jul 2025 22:10:47 +0530
+Summary: The Department of Telecom has issued a "show-cause-cum-demand notice" of about Rs 7,800 crore to Tata Communications over adjusted gross revenue dues, according to an official note by the company.
+The...
+
+ARTICLE 7:
+Title: India's top IT services firms wrap up Q1 with single-digit topline growth
+Link: https://www.business-standard.com/companies/quarterly-results/india-s-top-it-services-firms-wrap-up-q1-with-single-digit-topline-growth-125072700449_1.html
+Published: Sun, 27 Jul 2025 18:59:04 +0530
+🏷️ Categories: Chemical Pricing, Chemical Products
+Summary: India's top IT services firms delivered single-digit revenue growth in April-June, capping off a mixed, somewhat-sobering quarter as macroeconomic instability and geopolitical tensions weighed on glob...
+
+ARTICLE 8:
+Title: Crisis does not come with a calling card: Nestle MD Suresh Narayanan
+Link: https://www.business-standard.com/companies/news/crisis-does-not-come-with-a-calling-card-nestle-md-suresh-narayanan-125072700419_1.html
+Published: Sun, 27 Jul 2025 17:54:46 +0530
+🏷️ Categories: Chemical Pricing, Events & Conferences
+Summary: An aspiring civil servant who became an accidental corporate executive and eventually Nestle's 'crisis man', Nestle India's outgoing Chairman and Managing Director Suresh Narayanan believes crisis doe...
+
+ARTICLE 9:
+Title: India is key driver of future growth for Nestle, says MD Suresh Narayanan
+Link: https://www.business-standard.com/companies/news/india-is-key-driver-of-future-growth-for-nestle-says-md-suresh-narayanan-125072700431_1.html
+Published: Sun, 27 Jul 2025 17:39:04 +0530
+🏷️ Categories: Business News, Innovation & Discovery
+Summary: India will be a 'key driver of growth for the future' for Nestle which has "faith" in the market that offers a 'large consumption basket', according to Suresh Narayanan, the outgoing Chairman & Managi...
+
+ARTICLE 10:
+Title: Lodha Developers plans to launch ₹17,000 cr worth housing projects in FY26
+Link: https://www.business-standard.com/companies/news/lodha-developers-plans-to-launch-17000-cr-worth-housing-projects-by-fy26-125072700423_1.html
+Published: Sun, 27 Jul 2025 16:32:03 +0530
+Summary: Lodha Developers' sales bookings increased by 10 per cent year-on-year (YoY) to ₹4,450 crore during Q1 of this financial year...
+
+ARTICLE 11:
+Title: TCS to lay off 2% of its workforce, impacting over 12,000 employees
+Link: https://www.business-standard.com/companies/news/tcs-to-lay-off-2-percent-of-global-workforce-as-it-focuses-to-be-future-ready-org-125072700396_1.html
+Published: Sun, 27 Jul 2025 16:05:29 +0530
+Summary: Tata Consultancy Services (TCS) will lay off about 2% of its workforce, or 12,260 people, as part of its Project Fluidity, aiming to become a more agile, AI-led organisation...
+
+ARTICLE 12:
+Title: Multiples-led consortium seeks CCI nod to acquire stake in VIP Industries
+Link: https://www.business-standard.com/companies/news/multiples-led-consortium-seeks-cci-nod-to-acquire-stake-in-vip-industries-125072700314_1.html
+Published: Sun, 27 Jul 2025 15:01:41 +0530
+🏷️ Categories: Business News
+Summary: A clutch of investors led by Multiples Equity have sought approval from the fair trade regulator CCI to acquire a 32 per cent stake in luggage and travel accessories maker VIP Industries.
+The move cam...
+
+ARTICLE 13:
+Title: VinFast opens first India showroom in Surat, targets 35 dealerships in 2025
+Link: https://www.business-standard.com/companies/news/vinfast-opens-first-showroom-in-india-at-surat-eyes-35-dealers-by-2025-125072700310_1.html
+Published: Sun, 27 Jul 2025 14:25:43 +0530
+Summary: The EV maker's first outlet in India comes ahead of its Rs 16,600-cr Tamil Nadu factory launch and will showcase the VF 6 and VF 7 electric SUVs backed by a growing dealer network...
+
+ARTICLE 14:
+Title: Poonawalla Fincorp aims AUM growth upwards of 40% in FY26, says CEO
+Link: https://www.business-standard.com/companies/news/poonawalla-fincorp-aims-aum-growth-upwards-of-40-in-fy26-says-ceo-125072700245_1.html
+Published: Sun, 27 Jul 2025 13:19:21 +0530
+🏷️ Categories: Business News, Innovation & Discovery
+Summary: Financial Services firm Poonawalla Fincorp is targeting  above 40 per cent growth in its asset book on the back of expansion in products portfolio including gold loans.
+"We have given Asset Under Mana...
+
+ARTICLE 15:
+Title: NTPC Green looks to develop RE, battery storage projects in Bihar
+Link: https://www.business-standard.com/companies/news/ntpc-green-looks-to-develop-re-battery-storage-projects-in-bihar-125072700197_1.html
+Published: Sun, 27 Jul 2025 12:17:15 +0530
+🏷️ Categories: Innovation & Discovery, Regulatory
+Summary: State-owned NTPC Green Energy Limited has plans to set up renewable energy and battery energy storage projects (BESS) in Bihar, a move which will increase the company's portfolio and presence in the c...
+
+ARTICLE 16:
+Title: Looking to maintain double-digit profit growth in FY26: MHRIL CEO Bhat
+Link: https://www.business-standard.com/companies/news/looking-to-maintain-double-digit-profit-growth-in-fy26-mhril-ceo-bhat-125072700170_1.html
+Published: Sun, 27 Jul 2025 11:28:16 +0530
+🏷️ Categories: Supply & Demand
+Summary: Mahindra Holidays & Resorts India is looking to maintain a double-digit growth in its consolidated profit for the remaining part of this fiscal, buoyed by a strong performance in the first quarter, ac...
+
+ARTICLE 17:
+Title: NLC India exploring possibilities to source rare earth from overseas: CMD
+Link: https://www.business-standard.com/companies/news/nlc-india-exploring-possibilities-to-source-rare-earth-from-overseas-cmd-125072700154_1.html
+Published: Sun, 27 Jul 2025 11:07:26 +0530
+🏷️ Categories: Supply & Demand, Business News, Events & Conferences, Regulatory
+Summary: State-owned NLC India Ltd is exploring possibilities to source rare earth element from overseas and the company has also begun preliminary talks for lithium blocks in Mali, West Africa and for copper ...
+
+ARTICLE 18:
+Title: Sun Pharma, Lupin, Dr Reddy's recall products in US due to mfg issues
+Link: https://www.business-standard.com/industry/news/sun-pharma-lupin-dr-reddy-s-recall-products-in-us-due-to-mfg-issues-125072700139_1.html
+Published: Sun, 27 Jul 2025 10:47:31 +0530
+🏷️ Categories: Chemical Products, Business News
+Summary: Domestic drug majors Sun Pharma, Lupin and Dr Reddy's Laboratories are recalling drugs in the US market due to manufacturing issues and product mix up, according to the US health regulator.
+As per the...
+
+ARTICLE 19:
+Title: L&T Technology Services bags $60 million order from US telecom firm
+Link: https://www.business-standard.com/companies/news/l-t-technology-services-bags-60-million-order-from-us-telecom-firm-125072601096_1.html
+Published: Sat, 26 Jul 2025 23:16:30 +0530
+🏷️ Categories: Innovation & Discovery
+Summary: IT company L&amp;T Technology Services on Saturday said it has bagged a multi-year contract worth USD 60 million (about Rs 510 crore) from a prominent US-based wireless telecommunications services pro...
+
+ARTICLE 20:
+Title: Lodha Developers Q1FY26 results: Profit grows 42% to Rs 674 crore
+Link: https://www.business-standard.com/companies/quarterly-results/lodha-developers-q1fy26-results-profit-grows-42-to-rs-674-crore-125072600971_1.html
+Published: Sat, 26 Jul 2025 20:36:17 +0530
+Summary: The company's total expenses during the quarter under review also increased by 20.01 per cent to Rs 2,721 crore...
+
+ARTICLE 21:
+Title: Whirlpool India Q1FY26: Net profit steady at ₹146 cr despite revenue dip
+Link: https://www.business-standard.com/companies/news/whirlpool-india-q1fy26-net-profit-steady-at-146-cr-despite-revenue-dip-125072600905_1.html
+Published: Sat, 26 Jul 2025 20:25:22 +0530
+Summary: Consumer durables maker Whirlpool of India Ltd on Saturday reported a marginal increase in its consolidated net profit to Rs 146.08 crore for the June 2025 quarter.
+The company had posted a net profit...
+
+ARTICLE 22:
+Title: Kotak Mahindra Bank consolidated adj net profit up 1% at ₹4,472 crore in Q1
+Link: https://www.business-standard.com/companies/news/kotak-mahindra-bank-s-net-profit-down-7-yoy-in-q1-125072600637_1.html
+Published: Sat, 26 Jul 2025 16:11:26 +0530
+Summary: Reported profit down 40% as last year's profit of ₹7,448 cr was boosted by a ₹3,013 cr gain from sale of stake in insurance arm...
+
+ARTICLE 23:
+Title: Sona Comstar shareholders appoint Sunjay Kapur's wife Priya as director
+Link: https://www.business-standard.com/companies/news/sona-comstar-shareholders-appoint-sunjay-kapur-s-wife-priya-as-director-125072600484_1.html
+Published: Sat, 26 Jul 2025 14:59:33 +0530
+🏷️ Categories: Business News
+Summary: Shareholders of auto components firm Sona BLW Precision Forgings Ltd have approved the appointment of Priya Sachdev Kapur as a non-executive director with requisite majority.
+The shareholders approved...
+
+ARTICLE 24:
+Title: Labour ministry asks TCS to meet CLC next week to discuss onboarding delay
+Link: https://www.business-standard.com/companies/news/labour-ministry-asks-tcs-to-meet-clc-next-week-to-discuss-onboarding-delay-125072600447_1.html
+Published: Sat, 26 Jul 2025 12:59:04 +0530
+🏷️ Categories: Regulatory
+Summary: According to the letter sent by the ministry addressing the chairman and managing  director of TCS, the meeting will be held on August 1...
+
+ARTICLE 25:
+Title: RBI grants 1-month extension to IndusInd Bank's committee of executives
+Link: https://www.business-standard.com/companies/news/rbi-grants-1-month-extension-to-indusind-bank-s-committee-of-executives-125072600419_1.html
+Published: Sat, 26 Jul 2025 12:20:51 +0530
+Summary: Bank's chief human resources officer resigns after a two-decade stint with the bank...
+
+ARTICLE 26:
+Title: Q1 results today: Kotak Mahindra, IDFC First Bank among 38 firms on July 26
+Link: https://www.business-standard.com/companies/quarterly-results/fy26-q1-results-today-july-24-kotak-mahindra-idfc-first-whirlpool-sbfc-125072600177_1.html
+Published: Sat, 26 Jul 2025 09:20:27 +0530
+Summary: Q1 FY26 company results: Balkrishna Industries, Lodha Developers, Whirlpool, ZEN Technologies, and SBFC Finance are also to release their April-June quarter earnings reports today...
+
+ARTICLE 27:
+Title: Petronet Q1 net profit falls 25%; to invest ₹6,355 cr in new LNG terminal
+Link: https://www.business-standard.com/companies/quarterly-results/petronet-q1-net-profit-falls-25-to-invest-6-355-cr-in-new-lng-terminal-125072501420_1.html
+Published: Sat, 26 Jul 2025 00:07:15 +0530
+🏷️ Categories: Business News
+Summary: Petronet LNG Ltd, India's largest gas importer, on Friday reported a 25 per cent drop in its June quarter net profit, and said it will invest Rs 6,355 crore in setting up a new import facility at Odis...
+
+ARTICLE 28:
+Title: J&K Bank Q1 FY26 results: Net profit increases 17% to Rs 485 crore
+Link: https://www.business-standard.com/companies/quarterly-results/j-k-bank-q1-fy26-results-net-profit-increases-17-to-rs-485-crore-125072501610_1.html
+Published: Fri, 25 Jul 2025 22:48:19 +0530
+🏷️ Categories: Chemical Pricing
+Summary: Jammu and Kashmir Bank on Friday posted a 16.7 per cent increase in net profit at Rs 484.84 crore in the April-June quarter of FY26.
+The bank had reported a profit after tax (PAT) or net profit of Rs ...
+
+ARTICLE 29:
+Title: Orient Cement Q1 profit jumps to ₹205 cr as sales rise 24% to ₹866 cr
+Link: https://www.business-standard.com/companies/quarterly-results/orient-cement-q1-profit-jumps-to-205-cr-as-sales-rise-24-to-866-cr-125072501523_1.html
+Published: Fri, 25 Jul 2025 22:46:00 +0530
+🏷️ Categories: Business News
+Summary: Orient Cement Ltd, now part of billionaire Gautam Adani-led Adani Group, on Friday reported a multi-fold jump in its net profit to Rs 205.37 crore for the first quarter ended June 2025.
+The company ha...
+
+ARTICLE 30:
+Title: Mahindra Lifespaces' Q1 FY26 profit grows multiple times to ₹51 crore
+Link: https://www.business-standard.com/companies/quarterly-results/mahindra-lifespaces-q1-fy26-profit-grows-multiple-times-to-rs-51-cr-125072501617_1.html
+Published: Fri, 25 Jul 2025 22:13:53 +0530
+🏷️ Categories: Innovation & Discovery
+Summary: Mahindra Lifespaces reports a sharp rise in Q1 FY26 profit to Rs 51 crore, despite a significant drop in revenue. The company adds Rs 3,500 crore to its development portfolio...
+
+ARTICLE 31:
+Title: Reliance Infra reports Q1FY26 profit of Rs 59 crore, revenue drops 17%
+Link: https://www.business-standard.com/companies/quarterly-results/reliance-infra-reports-profit-of-rs-59-crore-in-q1-fy26-125072501612_1.html
+Published: Fri, 25 Jul 2025 22:09:01 +0530
+Summary: Reliance Infrastructure posts a profit of Rs 59 crore in Q1 FY26, reversing the previous year's loss. The company's revenue drops, but consolidated EBITDA increases by 29%...
+
+ARTICLE 32:
+Title: BEML, HSL sign MOU to advance next-gen marine engineering capabilities
+Link: https://www.business-standard.com/companies/news/beml-hsl-sign-mou-to-advance-next-gen-marine-engineering-capabilities-125072501449_1.html
+Published: Fri, 25 Jul 2025 21:58:34 +0530
+🏷️ Categories: Chemical Pricing, Business News, Innovation & Discovery, Regulatory
+Summary: BEML Limited, a Schedule 'A' public sector enterprise under the Ministry of Defence, on Friday said that it has entered into a strategic MoU with Hindustan Shipyard Limited (HSL) to collaborate on the...
+
+ARTICLE 33:
+Title: SAIL Q1FY26 result: Profit soars 810% YoY to ₹744.6 cr, down 40% QoQ
+Link: https://www.business-standard.com/companies/quarterly-results/sail-q1fy26-profit-up-810-percent-yoy-to-rs-744-cr-down-40-percent-qoq-125072501561_1.html
+Published: Fri, 25 Jul 2025 21:39:24 +0530
+Summary: The increase in profit was also aided by a sizeable exceptional item booking of ₹311.76 crore in the year-ago quarter...
+
+ARTICLE 34:
+Title: Mumbai realtor Lodha Developers plans to enter Delhi with ₹1,900 cr project
+Link: https://www.business-standard.com/companies/news/realtor-lodha-developers-plans-to-enter-delhi-with-1-900-crore-project-125072501540_1.html
+Published: Fri, 25 Jul 2025 21:21:58 +0530
+🏷️ Categories: Business News
+Summary: The Mumbai-based developer is considering rolling out a project with an investment of as much as ₹1,900 crore ($220 million) in the year starting April 2026...
+
+ARTICLE 35:
+Title: TMB's net profit up 6% in Q1, driven by strong lending and deposit growth
+Link: https://www.business-standard.com/companies/news/tmb-posts-highest-ever-quarterly-profit-in-q1-net-up-6-per-cent-125072501518_1.html
+Published: Fri, 25 Jul 2025 21:06:33 +0530
+Summary: Tamilnad Mercantile Bank's net profit hits a record Rs 304.9 crore in Q1FY26, driven by strong growth in core lending and deposit businesses...
+
+✅ Business Standard: Working URL found - https://www.business-standard.com/rss/companies-101.rss
+📊 Articles collected: 35
+
+--------------------------------------------------------------------------------
+
+SOURCE: Financial Express
+==================================================
+Trying: https://www.financialexpress.com/feed/
+❌ Failed (Status: Error)
+Trying: https://www.financialexpress.com/feed/rss
+❌ Failed (Status: Error)
+Trying: https://www.financialexpress.com/feed/xml
+❌ Failed (Status: Error)
+❌ Financial Express: No working URLs found
+
+--------------------------------------------------------------------------------
+
+SOURCE: Money Control
+==================================================
+Trying: https://www.moneycontrol.com/rss/business.xml
+✅ SUCCESS! Status: 200
+📰 Total Entries: 15
+
+ARTICLE 1:
+Title: ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24
+Link: https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html
+Published: Tue, 23 Apr 2024 22:36:32 +0530
+Summary: <img align=" left" alt="ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2023/2...
+
+ARTICLE 2:
+Title: Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share
+Link: https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html
+Published: Tue, 23 Apr 2024 18:51:45 +0530
+Summary: <img align=" left" alt="Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2...
+
+ARTICLE 3:
+Title: ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend
+Link: https://www.moneycontrol.com/news/business/icici-pru-life-q4-net-profit-falls-26-to-rs-174-cr-insurer-announces-dividend_17532101.html
+Published: Tue, 23 Apr 2024 18:26:16 +0530
+Summary: <img align=" left" alt="ICICI Pru Life Q4 net profit falls 26% to Rs 174 cr, insurer announces dividend" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2023/200x2...
+
+ARTICLE 4:
+Title: Cyient DLM#39;s profit after tax in FY24 surges 93%
+Link: https://www.moneycontrol.com/news/business/cyient-dlm39s-profit-after-taxfy24-surges-93_17532091.html
+Published: Tue, 23 Apr 2024 17:56:47 +0530
+🏷️ Categories: Supply & Demand
+Summary: <img align=" left" alt="Cyient DLM#39;s profit after tax in FY24 surges 93%" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2023/200x200/s/shutterstock_2170560599...
+
+ARTICLE 5:
+Title: Tata Consumer Q4 net profit falls 19% to Rs 217 cr, firm declares dividend of Rs 7.75 per share
+Link: https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532071.html
+Published: Tue, 23 Apr 2024 16:27:47 +0530
+Summary: <img align=" left" alt="Tata Consumer Q4 net profit falls 19% to Rs 217 cr, firm declares dividend of Rs 7.75 per share" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_...
+
+ARTICLE 6:
+Title: Tata Consumer Q4 net profit falls 19% to Rs 217 cr, firm declares dividend of Rs 7.75 per share
+Link: https://www.moneycontrol.com/news/business/tata-consumer-q4-net-profit-falls-19-to-rs-217-cr-firm-declares-dividendrs-775-per-share_17532081.html
+Published: Tue, 23 Apr 2024 16:27:47 +0530
+Summary: <img align=" left" alt="Tata Consumer Q4 net profit falls 19% to Rs 217 cr, firm declares dividend of Rs 7.75 per share" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_...
+
+ARTICLE 7:
+Title: Hindustan Unilever Q4 Preview: Price cuts, slow demand, regional competition to hurt topline
+Link: https://www.moneycontrol.com/news/business/hindustan-unilever-q4-preview-price-cuts-slow-demand-regional-competition-to-hurt-topline_17531901.html
+Published: Tue, 23 Apr 2024 16:05:45 +0530
+🏷️ Categories: Chemical Pricing
+Summary: <img align=" left" alt="Hindustan Unilever Q4 Preview: Price cuts, slow demand, regional competition to hurt topline" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_fil...
+
+ARTICLE 8:
+Title: LTIMindtree Q4 Preview: Lower pass-through revenue seen impacting growth marginally
+Link: https://www.moneycontrol.com/news/business/ltimindtree-q4-preview-lower-pass-through-revenue-seen-impacting-growth-marginally_17531881.html
+Published: Tue, 23 Apr 2024 15:51:27 +0530
+Summary: <img align=" left" alt="LTIMindtree Q4 Preview: Lower pass-through revenue seen impacting growth marginally" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2023/2...
+
+ARTICLE 9:
+Title: LT manufactures hydrotreating reactor for refinery in Mexico
+Link: https://www.moneycontrol.com/news/business/lt-manufactures-hydrotreating-reactor-for-refinerymexico_17531811.html
+Published: Tue, 23 Apr 2024 14:47:18 +0530
+Summary: <img align=" left" alt="LT manufactures hydrotreating reactor for refinery in Mexico" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2023/200x200/L/Larsen-Toubro_...
+
+ARTICLE 10:
+Title: Air India enters into codeshare pact with Japan#39;s All Nippon Airways
+Link: https://www.moneycontrol.com/news/business/air-india-enters-into-codeshare-pactjapan39s-all-nippon-airways_17531801.html
+Published: Tue, 23 Apr 2024 14:44:20 +0530
+Summary: <img align=" left" alt="Air India enters into codeshare pact with Japan#39;s All Nippon Airways" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2024/200x200/B/BOE...
+
+ARTICLE 11:
+Title: Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank
+Link: https://www.moneycontrol.com/news/business/razorpay-announces-39upi-switch39partnershipairtel-payments-bank_17531791.html
+Published: Tue, 23 Apr 2024 14:42:21 +0530
+🏷️ Categories: Chemical Pricing
+Summary: <img align=" left" alt="Razorpay announces #39;UPI Switch#39; in partnership with Airtel Payments Bank" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2024/200x20...
+
+ARTICLE 12:
+Title: Stellantis India to hike vehicle prices by up to Rs 17,000 from April 30
+Link: https://www.moneycontrol.com/news/business/stellantis-india-to-hike-vehicle-prices-byto-rs-17000april-30_17531771.html
+Published: Tue, 23 Apr 2024 14:17:55 +0530
+🏷️ Categories: Chemical Pricing
+Summary: <img align=" left" alt="Stellantis India to hike vehicle prices by up to Rs 17,000 from April 30" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2021/200x200/S/St...
+
+ARTICLE 13:
+Title: Juniper Green Energy, Tata Power sign PPA for 85 MW hybrid project in Maharashtra
+Link: https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531681.html
+Published: Tue, 23 Apr 2024 13:40:48 +0530
+Summary: <img align=" left" alt="Juniper Green Energy, Tata Power sign PPA for 85 MW hybrid project in Maharashtra" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2024/200...
+
+ARTICLE 14:
+Title: Juniper Green Energy, Tata Power sign PPA for 85 MW hybrid project in Maharashtra
+Link: https://www.moneycontrol.com/news/business/juniper-green-energy-tata-power-sign-ppa-for-85-mw-hybrid-projectmaharashtra_17531691.html
+Published: Tue, 23 Apr 2024 13:40:48 +0530
+Summary: <img align=" left" alt="Juniper Green Energy, Tata Power sign PPA for 85 MW hybrid project in Maharashtra" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2024/200...
+
+ARTICLE 15:
+Title: WeWork Global in talks to sell entire 27% stake in WeWork India
+Link: https://www.moneycontrol.com/news/business/wework-globaltalks-to-sell-entire-27-stakewework-india_17531651.html
+Published: Tue, 23 Apr 2024 13:38:59 +0530
+Summary: <img align=" left" alt="WeWork Global in talks to sell entire 27% stake in WeWork India" border="0" height="75" hspace="5" src="https://www.moneycontrol.com/news_image_files/2021/200x200/W/WEWORK_200....
+
+✅ Money Control: Working URL found - https://www.moneycontrol.com/rss/business.xml
+📊 Articles collected: 15
+
+--------------------------------------------------------------------------------
+
+SOURCE: Livemint
+==================================================
+Trying: https://www.livemint.com/rss/companies
+✅ SUCCESS! Status: 200
+📰 Total Entries: 35
+
+ARTICLE 1:
+Title: Elon Musk and Tesla’s $30 trillion AI supersonic tsunami
+Link: https://www.livemint.com/companies/elon-musk-and-tesla-s-30-trillion-ai-supersonic-tsunami-11753690357524.html
+Published: Mon, 28 Jul 2025 13:46:41 +0530
+Summary: Musk made a virtual appearance at the Tesla Owners of Silicon Valley 2025 “Takeover” party in San Mateo, California. He talked a lot about the potential for artificial intelligence....
+
+ARTICLE 2:
+Title: With one eye on IPO, Ratnadeep Retail engages DAM Capital for $100 million fundraise
+Link: https://www.livemint.com/companies/news/ratnadeep-retail-fundraise-ratnadeep-retail-ipo-grocery-chain-dam-capital-pre-ipo-round-indian-ipo-market-11753679317440.html
+Published: Mon, 28 Jul 2025 13:43:46 +0530
+Summary: The company aims to tap the public markets over the next 12-24 months so this is more like a pre-IPO round, a source told Mint, adding that a deal has been in the works for over a year now....
+
+ARTICLE 3:
+Title: Valterra Platinum First-Half Profit Falls on Rain-Hit Output
+Link: https://www.livemint.com/companies/company-results/valterra-platinum-first-half-profit-falls-on-rain-hit-output-11753689366442.html
+Published: Mon, 28 Jul 2025 13:26:05 +0530
+🏷️ Categories: Chemical Pricing, Business News
+Summary: Valterra Platinum Ltd. said first-half profit fell 91%, after flooding at a key mine cut production and the company incurred costs during its recent spinoff from Anglo American Plc....
+
+ARTICLE 4:
+Title: Bhel looks to tap India’s payments powerhouse to charge up govt’s EV drive
+Link: https://www.livemint.com/companies/bhel-npci-pm-edrive-ev-charging-app-11753360037468.html
+Published: Mon, 28 Jul 2025 12:46:21 +0530
+🏷️ Categories: Chemical Pricing, Regulatory
+Summary: Bhel plans to develop a digital app for India’s public EV charging stations and is seeking NPCI’s expertise to integrate a unified payments system..The move marks the thermal power equipment maker’s d...
+
+ARTICLE 5:
+Title: Heineken Beer Sales Fall as Price Dispute Took Longer to Fix
+Link: https://www.livemint.com/companies/news/heineken-beer-sales-fall-as-price-dispute-took-longer-to-fix-11753686754757.html
+Published: Mon, 28 Jul 2025 12:42:34 +0530
+🏷️ Categories: Chemical Pricing
+Summary: Heineken NV saw a decline in beer volumes, as retailer disputes across Europe dragged on sales and limited its ability to take advantage of the summer heat wave....
+
+ARTICLE 6:
+Title: ‘Boss asked me to check horoscope’, says Nestle India ‘crisis man’ Suresh Narayanan, who dealt with 2015 Maggi fiasco
+Link: https://www.livemint.com/companies/people/nestle-india-cmd-crisis-man-suresh-narayanan-2015-maggi-fiasco-arab-spring-lehman-brothers-boss-horoscope-manish-tiwary-11753672712362.html
+Published: Mon, 28 Jul 2025 12:07:21 +0530
+Summary: Suresh Narayanan, Nestle India's outgoing CMD stresses the importance of vigilance in leadership, having navigated numerous crises, including the 2015 Maggi fiasco. Here are his thoughts how crises pr...
+
+ARTICLE 7:
+Title: Coworking IPO boom: Can India's flexi-office giants turn profitable?
+Link: https://www.livemint.com/companies/coworking-space-ipo-india-smartworks-ipo-listing-awfis-ipo-indiqube-ipo-11753680235042.html
+Published: Mon, 28 Jul 2025 11:28:19 +0530
+Summary: Coworking space providers are riding on a maturing business model and going public. Amid their rapid scale-up, they are also trying to turn profitable....
+
+ARTICLE 8:
+Title: TCS shares decline nearly 2 pc on layoff announcement
+Link: https://www.livemint.com/companies/news/tcs-shares-decline-nearly-2-pc-on-layoff-announcement-11753680925522.html
+Published: Mon, 28 Jul 2025 11:05:25 +0530
+🏷️ Categories: Business News
+Summary: TCS shares decline nearly 2 pc on layoff announcement...
+
+ARTICLE 9:
+Title: Jeff Bezos completes $5.7 billion worth of Amazon stocks sale. Here's why and how much he still owns…
+Link: https://www.livemint.com/companies/people/jeff-bezos-completes-5-7-billion-worth-of-amazon-stocks-sale-why-blue-origin-charity-billionaire-how-much-still-owns-ai-11753676659969.html
+Published: Mon, 28 Jul 2025 10:47:30 +0530
+🏷️ Categories: Supply & Demand
+Summary: Billionaire Jeff Bezos has completed $5.7 billion worth of shares sales of his tech company Amazon.com, as part of the upto $25 million worth sales outlined to the US SEC under so called 10b5-1 tradin...
+
+ARTICLE 10:
+Title: Indias Kotak Mahindra Bank slumps as earnings spark asset quality concerns
+Link: https://www.livemint.com/companies/company-results/indias-kotak-mahindra-bank-slumps-as-earnings-spark-asset-quality-concerns-11753677758952.html
+Published: Mon, 28 Jul 2025 10:12:38 +0530
+🏷️ Categories: Supply & Demand
+Summary: KOTAK-MAHINDRA-BANK-STOCKS:India's Kotak Mahindra Bank slumps as earnings spark asset quality concerns...
+
+ARTICLE 11:
+Title: NRIs turning to India for high-quality quality affordable healthcare, customers up 150% YoY in FY25: Report
+Link: https://www.livemint.com/companies/news/nris-turning-to-india-for-high-quality-quality-affordable-healthcare-customers-up-150-yoy-in-fy25-report-11753671449953.html
+Published: Mon, 28 Jul 2025 08:27:29 +0530
+🏷️ Categories: Regulatory
+Summary: Non-Resident Indians (NRIs) are increasingly choosing India as their destination for high-quality and affordable healthcare, according to the data released by Policybazaar....
+
+ARTICLE 12:
+Title: Kenro Capital eyes up to $40 mn stake in Pine Labs as early backers seek exits
+Link: https://www.livemint.com/companies/kenro-capital-30-40-mn-stake-pine-labs-as-early-backers-seek-exits-ipo-drhp-filed-with-sebi-11753616654281.html
+Published: Mon, 28 Jul 2025 05:45:11 +0530
+Summary: Pine Labs was last valued at $5.05 billion when it raised about $50 million from Vitruvian Partners in 2022. The Kenro Capital deal may come at a slight discount....
+
+ARTICLE 13:
+Title: Three years on, AI is prompting IT services companies to cut workforce.
+Link: https://www.livemint.com/companies/tcs-infosys-hcltech-ai-chatgpt-employment-layoffs-engineering-graduates-it-companies-robotic-process-automation-11753621670525.html
+Published: Mon, 28 Jul 2025 05:30:11 +0530
+Summary: TCS, which ended the June quarter with 613,069 employees, will let go of 12,200 employees....
+
+ARTICLE 14:
+Title: India gets a new No. 7 IT services company as churn continues
+Link: https://www.livemint.com/companies/india-new-seventh-largest-it-services-company-coforge-topples-mphasis-persistent-hexaware-11753596580404.html
+Published: Mon, 28 Jul 2025 05:30:10 +0530
+Summary: India's mid-sized information technology segment has seen frequent churn over the past two years. While the top order stays steady, mid-cap IT has seen multiple changes in rankings by revenue. One com...
+
+ARTICLE 15:
+Title: Sabadell CEO Sees Bid for Spanish Banking Powerhouse Deadlocked
+Link: https://www.livemint.com/companies/news/sabadell-ceo-sees-bid-for-spanish-banking-powerhouse-deadlocked-11753656142573.html
+Published: Mon, 28 Jul 2025 04:12:22 +0530
+🏷️ Categories: Business News
+Summary: Banco Sabadell SA’s chief executive officer said an acquisition offer by BBVA SA remains too low, leaving little prospect for plans to create a Spanish banking powerhouse....
+
+ARTICLE 16:
+Title: Boeing Defense Workers Reject Contract in New Labor Turmoil
+Link: https://www.livemint.com/companies/news/boeing-defense-workers-reject-contract-in-new-labor-turmoil-11753639644332.html
+Published: Sun, 27 Jul 2025 23:37:23 +0530
+Summary: Boeing Co. faces the risk of a strike at its St. Louis defense hub after union workers rejected a contract offer that would boost their wages by 20% over four years....
+
+ARTICLE 17:
+Title: TCS layoffs: Why is IT major laying off 12,000 employees from its global workforce? Explained
+Link: https://www.livemint.com/companies/news/tcs-layoffs-why-is-it-major-tata-consultancy-services-laying-off-12-000-employees-which-roles-are-at-stake-explained-11753636850943.html
+Published: Sun, 27 Jul 2025 23:23:35 +0530
+🏷️ Categories: Business News
+Summary: TCS layoffs: Tata Consultancy Services plans to reduce its workforce by 2%, impacting 12,261 employees. This aligns with their plan to focus on investments in tech and market expansion. Here's who wil...
+
+ARTICLE 18:
+Title: After Tesla, Vietnamese EV maker VinFast enters India, opens first showroom in Gujarat
+Link: https://www.livemint.com/companies/news/after-tesla-vietnamese-ev-maker-vinfast-enters-india-opens-first-showroom-in-gujarat-11753623087618.html
+Published: Sun, 27 Jul 2025 23:14:22 +0530
+🏷️ Categories: Business News
+Summary: Vietnamese EV maker VinFast opened its first showroom in Gujarat's Surat ahead of its manufacturing plant launch in Tamil Nadu. The company has launched two premier SUVs, the VF 6 and VF 7 as of now....
+
+ARTICLE 19:
+Title: Lenskart receives shareholder nod to raise  ₹2,150 crore via IPO: Report
+Link: https://www.livemint.com/companies/news/lenskart-receives-shareholder-nod-to-raise-rs-2-150-crore-via-ipo-report-11753630881139.html
+Published: Sun, 27 Jul 2025 22:38:03 +0530
+Summary: Lenskart received the approval of its shareholders to raise  ₹2,150 crore through an initial public offering (IPO). The IPO size is expected to be $1 billion or  ₹8,500 crore.&amp;nbsp;...
+
+ARTICLE 20:
+Title: TCS to lay off over 12,000 employees this year; mid, senior level staff to be impacted
+Link: https://www.livemint.com/companies/news/tcs-to-lay-off-over-12-000-employees-this-year-mid-senior-level-staff-to-be-impacted-11753634839505.html
+Published: Sun, 27 Jul 2025 22:17:18 +0530
+Summary: TCS to lay off over 12,000 employees this year; mid, senior level staff to be impacted...
+
+ARTICLE 21:
+Title: Lawmakers Press FDA to Target Knockoff Weight-Loss Drugs
+Link: https://www.livemint.com/companies/news/lawmakers-press-fda-to-target-knockoff-weight-loss-drugs-11753630418507.html
+Published: Sun, 27 Jul 2025 21:03:38 +0530
+Summary: Dozens of lawmakers are urging US health regulators to crack down on the booming market for knockoff weight-loss drugs amid mounting concerns over their potential safety risks....
+
+ARTICLE 22:
+Title: Zolostays' first investor Nexus Venture to check out after a decade
+Link: https://www.livemint.com/companies/news/nexus-venture-zolostays-vc-exit-stake-sale-co-living-housing-startup-11753616152760.html
+Published: Sun, 27 Jul 2025 20:40:26 +0530
+Summary: Nexus Venture is set to sell its entire 27% stake in Zolostays, a decade after it came in as the co-living startup's first investor. The company, valued at  ₹1,500–1,600 crore, recently sold its stude...
+
+ARTICLE 23:
+Title: Beverage makers June qtr goes downstream on early monsoon, unseasonal rain
+Link: https://www.livemint.com/companies/company-results/beverage-makers-june-qtr-goes-downstream-on-early-monsoon-unseasonal-rain-11753621090041.html
+Published: Sun, 27 Jul 2025 18:28:09 +0530
+Summary: Beverage makers' June qtr goes downstream on early monsoon, unseasonal rain...
+
+ARTICLE 24:
+Title: Why MAGA Wants to Make Mexican Coke in the US
+Link: https://www.livemint.com/companies/news/why-maga-wants-to-make-mexican-coke-in-the-us-11753620178484.html
+Published: Sun, 27 Jul 2025 18:12:58 +0530
+🏷️ Categories: Regulatory
+Summary: Coca-Cola’s decision to offer its flagship drink with cane sugar instead of high fructose corn syrup is as much about trade policy as it is about health policy....
+
+ARTICLE 25:
+Title: TCS layoffs: IT major to cut over 12,000 jobs, middle and senior management to get affected. Here's what we know
+Link: https://www.livemint.com/companies/news/tcs-layoffs-it-major-to-cut-12-000-jobs-2-percent-workforce-middle-senior-management-heres-what-we-know-11753615552570.html
+Published: Sun, 27 Jul 2025 17:37:45 +0530
+🏷️ Categories: Business News
+Summary: TCS layoffs: Tata Consultancy Services on Sunday said that it will reduce its workforce by 2%, adding that the transition is being planned with due care....
+
+ARTICLE 26:
+Title: Why Coromandel International has thrived while many fertilizer companies have struggled
+Link: https://www.livemint.com/companies/coromandel-international-fertilizer-company-esg-score-agriculture-crop-protection-chemicals-kakinada-plant-murugappa-11753611034862.html
+Published: Sun, 27 Jul 2025 17:01:06 +0530
+🏷️ Categories: Chemical Products
+Summary: Cash rich and debt free, Coromandel International is one of the most efficient and profitable fertilizer producers in the country. That is a commendable feat, in a sector that is highly regulated and ...
+
+ARTICLE 27:
+Title: Canara Bank may sell its excess priority sector loans in Q2: MD Raju
+Link: https://www.livemint.com/companies/news/canara-bank-may-sell-its-excess-priority-sector-loans-in-q2-md-raju-11753615690662.html
+Published: Sun, 27 Jul 2025 16:58:10 +0530
+Summary: Canara Bank may sell its excess priority sector loans in Q2: MD Raju...
+
+ARTICLE 28:
+Title: Indias top IT cos wrap up Q1 with single-digit topline growth
+Link: https://www.livemint.com/companies/company-results/indias-top-it-cos-wrap-up-q1-with-single-digit-topline-growth-11753615390515.html
+Published: Sun, 27 Jul 2025 16:53:09 +0530
+Summary: India's top IT cos wrap up Q1 with single-digit topline growth...
+
+ARTICLE 29:
+Title: Suresh Narayanan—the accidental CEO
+Link: https://www.livemint.com/companies/people/suresh-narayanan-the-accidental-ceo-11753434689215.html
+Published: Sun, 27 Jul 2025 16:30:12 +0530
+🏷️ Categories: Chemical Pricing
+Summary: The chairman and managing director of Nestlé India, who never fancied working for a private company, is drawing a curtain on his four-decade corporate career this week.&amp;nbsp;...
+
+ARTICLE 30:
+Title: Received approval from board to raise  ₹5,000 cr: Indian Bank MD & CEO
+Link: https://www.livemint.com/companies/news/received-approval-from-board-to-raise-rs-5-000-cr-indian-bank-md-ceo-11753613275307.html
+Published: Sun, 27 Jul 2025 16:17:54 +0530
+Summary: Received approval from board to raise  ₹5,000 cr: Indian Bank MD &amp; CEO...
+
+ARTICLE 31:
+Title: Reliance Power, Reliance Infra raids: Anil Ambani-owned companies say ‘action by ED concluded’ — Full statement
+Link: https://www.livemint.com/companies/news/reliance-power-reliance-infra-raids-anil-ambani-owned-companies-say-action-by-ed-concluded-full-statement-11753608152499.html
+Published: Sun, 27 Jul 2025 15:21:03 +0530
+🏷️ Categories: Chemical Pricing
+Summary: Reliance Group of companies' listed entities, Reliance Power and Reliance Infrastructure on Sunday, 27 July 2025, disclosed that the action initiated by the Enforcement Directorate has not ‘concluded’...
+
+ARTICLE 32:
+Title: Indias retail focus returns to malls as high street leasing falls 26% in Q2 2025
+Link: https://www.livemint.com/companies/news/indias-retail-focus-returns-to-malls-as-high-street-leasing-falls-26-in-q2-2025-11753595383975.html
+Published: Sun, 27 Jul 2025 11:19:43 +0530
+Summary: India's retail sector has shifted its focus to malls again as leasing of high streets witnessed a 26 per cent quarter-on-quarter decline in the second quarter of 2025....
+
+ARTICLE 33:
+Title: NLC India exploring possibilities to source rare earth from overseas: CMD
+Link: https://www.livemint.com/companies/news/nlc-india-exploring-possibilities-to-source-rare-earth-from-overseas-cmd-11753594111998.html
+Published: Sun, 27 Jul 2025 10:58:31 +0530
+Summary: NLC India exploring possibilities to source rare earth from overseas: CMD...
+
+ARTICLE 34:
+Title: Sun Pharma, Lupin, Dr Reddys recall products in US market
+Link: https://www.livemint.com/companies/news/sun-pharma-lupin-dr-reddys-recall-products-in-us-market-11753592778294.html
+Published: Sun, 27 Jul 2025 10:36:17 +0530
+Summary: Sun Pharma, Lupin, Dr Reddy's recall products in US market...
+
+ARTICLE 35:
+Title: Tesla Engineering VP Moravy Says Company in ‘Big Swing Moment’
+Link: https://www.livemint.com/companies/news/tesla-engineering-vp-moravy-says-company-in-big-swing-moment-11753590479428.html
+Published: Sun, 27 Jul 2025 09:57:58 +0530
+Summary: Tesla Inc. engineering executive Lars Moravy said the company is in a “big swing moment” with its forthcoming products as he gave a wide ranging talk at a San Francisco Bay area gathering of customers...
+
+✅ Livemint: Working URL found - https://www.livemint.com/rss/companies
+📊 Articles collected: 35
+
+--------------------------------------------------------------------------------
+
+SOURCE: IndianChemicalNews
+==================================================
+Trying: https://www.indianchemicalnews.com/feed
+✅ SUCCESS! Status: 200
+📰 Total Entries: 50
+
+ARTICLE 1:
+Title: India withdraws QCOs for acetic acid, methanol, and aniline
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/regulatory/india-withdraws-qcos-for-acetic-acid-methanol-and-aniline-26920
+Published: Mon, 28 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Products, Regulatory
+Summary: These QCOs, originally issued in August 2019, mandated that manufacturers and importers of these chemicals obtain Bureau of Indian Standards (BIS) certification to sell their products in the Indian ma...
+
+ARTICLE 2:
+Title: Honeywell Q2 2025 sales up 8%
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/honeywell-q2-2025-sales-up-8-26921
+Published: Mon, 28 Jul 2025 00:00:00 +0530
+Summary: Separations progressing successfully with Solstice Advanced Materials spin date targeted for fourth quarter of 2025...
+
+ARTICLE 3:
+Title: Kemira to expand drinking water treatment portfolio with new ACH production line
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/chemical/kemira-to-expand-drinking-water-treatment-portfolio-with-new-ach-production-line-26922
+Published: Mon, 28 Jul 2025 00:00:00 +0530
+🏷️ Categories: Business News
+Summary: The new facility will significantly enhance Kemira’s product portfolio and strengthen its position in the growing market for advanced water treatment solutions...
+
+ARTICLE 4:
+Title: Veolia acquires Texas-based Chameleon Industries
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/chemical/veolia-acquires-texas-based-chameleon-industries-26923
+Published: Mon, 28 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Products, Business News
+Summary: Acquisition of leading specialty chemical producer for the semiconductor and microelectronics industries...
+
+ARTICLE 5:
+Title: Colorcon opens new film coating manufacturing facility in Malaysia
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/chemical/colorcon-opens-new-film-coating-manufacturing-facility-in-malaysia-26924
+Published: Mon, 28 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Products, Business News
+Summary: The Johor plant is Colorcon’s 7th major film coating plant and their 16th manufacturing facility worldwide...
+
+ARTICLE 6:
+Title: AVEVA Day India 2025 showcases Industrial AI as a catalyst for sustainable growth
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/digitization/aveva-day-india-2025-showcases-industrial-ai-as-a-catalyst-for-sustainable-growth-26925
+Published: Mon, 28 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Pricing, Chemical Products, Innovation & Discovery, Events & Conferences
+Summary: The event spotlighted the strategic role of digitalisation in advancing India’s ambition to build a $1 trillion export economy...
+
+ARTICLE 7:
+Title: Nayara Energy elevates Sergey Denisov as CEO
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/people/nayara-energy-elevates-sergey-denisov-as-ceo-26926
+Published: Mon, 28 Jul 2025 00:00:00 +0530
+Summary: Denisov will steer Nayara through a challenging geopolitical and regulatory environment...
+
+ARTICLE 8:
+Title: Epsilon Carbon appoints Munish Bakshi as VP – Sales & Marketing
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/people/epsilon-carbon-appoints-munish-bakshi-as-vp-sales-marketing-26927
+Published: Mon, 28 Jul 2025 00:00:00 +0530
+Summary: Prior to joining Epsilon Carbon, Bakshi held key positions at National Peroxide Ltd.,...
+
+ARTICLE 9:
+Title: Kansai Nerolac Paints appoints Yash Ahuja as CFO
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/people/kansai-nerolac-paints-appoints-yash-ahuja-as-cfo-26911
+Published: Sun, 27 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Products
+Summary: Ahuja has worked with various organisations like Panasonic Life Solutions India, Wrigley and Hewlett-Packard, General Electric, and SpiceJet...
+
+ARTICLE 10:
+Title: PNGRB authorizes GAIL for capacity expansion of JLPL
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/gas/pngrb-authorizes-gail-for-capacity-expansion-of-jlpl-26912
+Published: Sun, 27 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Pricing, Supply & Demand, Business News
+Summary: GAIL currently operates the longest LPG pipeline of India with a capacity of 3.25 MMTPA...
+
+ARTICLE 11:
+Title: Sharda Cropchem Q1 FY26 revenue up 25%; Planning Capex of Rs. 400-450 Cr
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/chemical/sharda-cropchem-q1-fy26-revenue-up-25-planning-capex-of-rs-400-450-cr-26913
+Published: Sun, 27 Jul 2025 00:00:00 +0530
+Summary: Company remain focus on increasing its product registrations in FY26, with planned Capex of around Rs. 400-450 crores...
+
+ARTICLE 12:
+Title: Chembond allotted 10.02 acres land to set up manufacturing unit in Karnataka
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/chemical/chembond-allotted-1002-acres-land-to-set-up-manufacturing-unit-in-karnataka-26914
+Published: Sun, 27 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Pricing, Business News
+Summary: The tentative cost of the said plot is Rs. 7.94 crore...
+
+ARTICLE 13:
+Title: New fertilizer JV Assam Valley Fertilizer And Chemical Company formed
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/fertilizer/new-fertilizer-jv-assam-valley-fertilizer-and-chemical-company-formed-26915
+Published: Sun, 27 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Products
+Summary: AVFCCL is a 40:18:18:13:11 JVC among GoA, NFL, OIL, HURL, and BVFCL...
+
+ARTICLE 14:
+Title: Rise of Bio-based Chemicals: Hype or Game-Changer?: Dr. Sangeeta Srivastava, Executive Director, Godavari Biorefineries
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/opinion/rise-of-bio-based-chemicals-hype-or-game-changer-dr-sangeeta-srivastava-executive-director-godavari-biorefineries-26916
+Published: Sun, 27 Jul 2025 00:00:00 +0530
+🏷️ Categories: Business News, Innovation & Discovery, Regulatory
+Summary: The latest BioE3 policy builds the framework for high-performance biomanufacturing to propel the development and production...
+
+ARTICLE 15:
+Title: Aksharchem India posts Q1 FY26 PAT lower at Rs. 71.10 lakhs
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/aksharchem-india-posts-q1-fy26-pat-lower-at-rs-7110-lakhs-26917
+Published: Sun, 27 Jul 2025 00:00:00 +0530
+Summary: AksharChem India has reported total income of Rs. 96.99 crores during the period ended June 30, 2025...
+
+ARTICLE 16:
+Title: Petronet LNG Q1 FY26 consolidated PAT drops 23% at Rs. 841.88 Cr
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/petronet-lng-q1-fy26-consolidated-pat-drops-23-at-rs-84188-cr-26918
+Published: Sun, 27 Jul 2025 00:00:00 +0530
+Summary: Petronet LNG has reported total income of Rs. 12,096.46 crores during the period ended June 30, 2025...
+
+ARTICLE 17:
+Title: Wabag secures Rs. 380 crore order from BWSSB
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/wabag-secures-rs-380-crore-order-from-bwssb-26919
+Published: Sun, 27 Jul 2025 00:00:00 +0530
+Summary: These advanced WWTPs, located at four sites in Bommanahalli under the Karnataka Water Security and Disaster Resilience Program, are vital for the region's long-term water sustainability...
+
+ARTICLE 18:
+Title: Enviro Infra Engineers receives EPC order for STP including reuse of treated waste water
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/enviro-infra-engineers-receives-epc-order-for-stp-including-reuse-of-treated-waste-water-26908
+Published: Sat, 26 Jul 2025 00:00:00 +0530
+🏷️ Categories: Business News
+Summary: EPC of 20 MLD STP with Tertiary Treatment Facility followed by Ultrafiltration system for 10 MLD...
+
+ARTICLE 19:
+Title: CPCL Q1 FY26 revenue down 8.2% to reach Rs. 18,683 Cr
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/cpcl-q1-fy26-revenue-down-82-to-reach-rs-18683-cr-26909
+Published: Sat, 26 Jul 2025 00:00:00 +0530
+Summary: In the current quarter, the company reported a loss before tax of Rs. 80 crore and a loss after tax of Rs. 57 crore...
+
+ARTICLE 20:
+Title: Tata Chemicals Q1 FY26 revenue down 2%; PAT up 80.6%
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/tata-chemicals-q1-fy26-revenue-down-2-pat-up-806-26910
+Published: Sat, 26 Jul 2025 00:00:00 +0530
+Summary: Market conditions remain fluid with overall global demand estimated to be flat in near term, due to the uncertainty associated with trade tariffs...
+
+ARTICLE 21:
+Title: Case Study: ABB’s automation technology ensures safer and faster production at Indofil’s agrochemical plants
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/technology/case-study-abbs-automation-technology-ensures-safer-and-faster-production-at-indofils-agrochemical-plants-26893
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Products, Business News
+Summary: A key feature of the project was the implementation of ABB’s hazardous area remote I/O systems...
+
+ARTICLE 22:
+Title: Arkema launches fund to support the castor farming communities in India
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/arkema-launches-fund-to-support-the-castor-farming-communities-in-india-26894
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Supply & Demand, Business News, Innovation & Discovery
+Summary: Castor is the renewable feedstock used in the production of Rilsan PA11 and Oleris advanced Oleochemicals...
+
+ARTICLE 23:
+Title: Aster launches subsidiary for integrated engineering services
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/aster-launches-subsidiary-for-integrated-engineering-services-26895
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Pricing
+Summary: Aster’s parent company, Chandra Asri has acquired an 11.9% equity stake in Hiap Seng Industries Limited...
+
+ARTICLE 24:
+Title: Syensqo and cylib produce high-purity lithium hydroxide from spent EV batteries
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/battery/syensqo-and-cylib-produce-high-purity-lithium-hydroxide-from-spent-ev-batteries-26896
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+Summary: Innovative process enables successful pilot-scale materials recovery from end-of-life electric vehicle (EV) batteries to meet future lithium needs...
+
+ARTICLE 25:
+Title: Air Liquide to invest € 250 million+ to support semiconductor industry
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/gas/air-liquide-to-invest-250-million-to-support-semiconductor-industry-26897
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Pricing, Business News
+Summary: Air Liquide will build, own and operate three Air Separation Units and two hydrogen production units...
+
+ARTICLE 26:
+Title: India and UK sign CETA, secures duty-free access for 99% of India’s exports to UK
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/policy/india-and-uk-sign-ceta-secures-duty-free-access-for-99-of-indias-exports-to-uk-26898
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Events & Conferences
+Summary: Bilateral trade between two countries stands at nearly US $56 billion, with a joint goal to double this figure by 2030...
+
+ARTICLE 27:
+Title: Coromandel International approves Rs. 137 crore for setting up bagging plant
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/coromandel-international-approves-rs-137-crore-for-setting-up-bagging-plant-26899
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Business News
+Summary: The proposed capacity addition is 3,888 MTPD with 6 bagging machines installed at 90% efficiency on design capacity...
+
+ARTICLE 28:
+Title: Supreme Industries revenue down 1.2%; PAT down 24.9%
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/supreme-industries-revenue-down-12-pat-down-249-26900
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+Summary: The company has received a LoA for supply of 2 lakh nos. of 10 Kg. composite LPG cylinders to BPCL...
+
+ARTICLE 29:
+Title: Modular, software-defined automation is the foundation of the future-ready chemical plant
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/digitization/modular-software-defined-automation-is-the-foundation-of-the-future-ready-chemical-plant-26901
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Business News
+Summary: With hardware-agnostic integration and real-time diagnostics, digital solutions are reshaping how decisions are made across industrial sites...
+
+ARTICLE 30:
+Title: Borealis Compounds achieves ISCC PLUS certification
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/sustainability/borealis-compounds-achieves-iscc-plus-certification-26902
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Supply & Demand, Innovation & Discovery, Regulatory
+Summary: Borealis Compounds Inc. can now offer high-performance polyolefin solutions made from renewable feedstocks (the Bornewables) and chemically recycled feedstocks (Borcycle C)...
+
+ARTICLE 31:
+Title: Celanese and Li Auto unveil ultra-low emission Hostaform POM XAP3
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/celanese-and-li-auto-unveil-ultra-low-emission-hostaform-pom-xap3-26903
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Regulatory
+Summary: Redefining the ultra-low emission cabin standard for new energy vehicles...
+
+ARTICLE 32:
+Title: ExxonMobil: Powering the AI revolution with reliable energy
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/digitization/exxonmobil-powering-the-ai-revolution-with-reliable-energy-26904
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+Summary: As the largest producer of oil and gas in the United States, ExxonMobil will continue to strengthen America’s energy security, economy and workforce...
+
+ARTICLE 33:
+Title: SIBUR develops new grade of polypropylene for retort packaging
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/sibur-develops-new-grade-of-polypropylene-for-retort-packaging-26905
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Products
+Summary: Retort packaging is a modern solution that is an alternative to glass and metal packaging...
+
+ARTICLE 34:
+Title: TGV SRAAC selects thyssenkrupp nucera for caustic soda expansion project
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/chemical/tgv-sraac-selects-thyssenkrupp-nucera-for-caustic-soda-expansion-project-26906
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Business News
+Summary: Project to expand TGV SRAAC’s chlor-alkali plant in Kurnool, Andhra Pradesh, India, by 50 percent from 1,000 tons per day to 1,500 tons of caustic soda per day...
+
+ARTICLE 35:
+Title: PM Modi to inaugurate North Cargo Berth-III of V.O. Chidambaranar Port on July 26
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/supply-chain/pm-modi-to-inaugurate-north-cargo-berth-iii-of-vo-chidambaranar-port-on-july-26-26907
+Published: Fri, 25 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Pricing
+Summary: Modi will also dedicate to the nation the 6-laning of the 5.16 km NH-138 Tuticorin Port Road,...
+
+ARTICLE 36:
+Title: Ravi Annavarapu of FMC joins Calibre Chemicals as CEO
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/people/ravi-annavarapu-of-fmc-joins-calibre-chemicals-as-ceo-26880
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+Summary: He is responsible for overall leadership of Calibre Chemicals...
+
+ARTICLE 37:
+Title: HyCarb secures €45 million for green hydrogen research
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/hydrogen/hycarb-secures-45-million-for-green-hydrogen-research-26881
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+🏷️ Categories: Innovation & Discovery
+Summary: HyCarb is a collaboration between nine universities, five universities of applied sciences (UAS), three research institutes and thirty companies...
+
+ARTICLE 38:
+Title: Lhyfe raises €2.5 million through crowdfunding campaign for green hydrogen
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/hydrogen/lhyfe-raises-25-million-through-crowdfunding-campaign-for-green-hydrogen-26882
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+Summary: Lhyfe’s initiative allows the general public to finance the decarbonisation of mobility and industry and earn a return as bond subscribers...
+
+ARTICLE 39:
+Title: BASF secures butane supply from AltaGas for APAC crackers
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/chemical/basf-secures-butane-supply-from-altagas-for-apac-crackers-26883
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+Summary: BASF gains access to competitive and reliable butane from Western Canada...
+
+ARTICLE 40:
+Title: BASF extends appointments of two board members
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/people/basf-extends-appointments-of-two-board-members-26884
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+Summary: The Supervisory Board of BASF has today extended the appointments of Dr. Dirk Elvermann and Dr. Stephan Kothrade as members of the Board of Executive Directors...
+
+ARTICLE 41:
+Title: PCBL Chemical’s subsidiary Nanovace Technologies granted US patent for developing energy storage nanomaterials
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/rd/pcbl-chemicals-subsidiary-nanovace-technologies-granted-us-patent-for-developing-energy-storage-nanomaterials-26885
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+🏷️ Categories: Innovation & Discovery
+Summary: This breakthrough patent represents a significant milestone in our R&amp;D efforts and strengthens PCBL’s intellectual property portfolio in the energy storage domain...
+
+ARTICLE 42:
+Title: TotalEnergies, CMA CGM to launch LNG bunkering logistics JV
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/supply-chain/totalenergies-cma-cgm-to-launch-lng-bunkering-logistics-jv-26886
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+Summary: The TotalEnergies-CMA CGM JV will offer a complete logistics service in the Amsterdam-Rotterdam-Antwerp (ARA) region...
+
+ARTICLE 43:
+Title: Eni and Sonatrach strengthen energy security cooperation
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/energy/eni-and-sonatrach-strengthen-energy-security-cooperation-26887
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+🏷️ Categories: Innovation & Discovery
+Summary: The two companies will strengthen collaboration in the field of renewable energy and energy transition,...
+
+ARTICLE 44:
+Title: EIB and Eni sign €500 million finance agreement to convert Livorno refinery into a biorefinery
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/energy/eib-and-eni-sign-500-million-finance-agreement-to-convert-livorno-refinery-into-a-biorefinery-26888
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+Summary: This will be Eni's third biorefinery in Italy, after those in Venice and Gela...
+
+ARTICLE 45:
+Title: SRF Q1 FY26 PAT jumps 71% to Rs. 432 Cr
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/chemical/srf-q1-fy26-pat-jumps-71-to-rs-432-cr-26889
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Products, Business News
+Summary: The Board has approved the establishment of a dedicated facility at Dahej to produce 12,000 MT per annum of an agrochemical intermediate at an estimated investment of Rs. 250 crore...
+
+ARTICLE 46:
+Title: TACC and NCB partner to advance sustainable concrete innovation with graphene based additives
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/chemical/tacc-and-ncb-partner-to-advance-sustainable-concrete-innovation-with-graphene-based-additives-26890
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Products, Innovation & Discovery
+Summary: Graphene, a single layer of carbon atoms in a hexagonal lattice, is known for its exceptional strength, conductivity, and lightweight properties...
+
+ARTICLE 47:
+Title: Aether Industries Q1 FY26 revenue up 35%; PAT up 57%
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/aether-industries-q1-fy26-revenue-up-35-pat-up-57-26891
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+🏷️ Categories: Business News
+Summary: Two production blocks of Phase 1 are expected to be fully operational by the end of calendar year 2025...
+
+ARTICLE 48:
+Title: LANXESS brings Lewatit resins to STAI International Sugar Expo 2025
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/general/lanxess-brings-lewatit-resins-to-stai-international-sugar-expo-2025-26892
+Published: Thu, 24 Jul 2025 00:00:00 +0530
+🏷️ Categories: Events & Conferences
+Summary: Lewatit ion exchangers and Lewatit adsorbers play a crucial role in separation processes...
+
+ARTICLE 49:
+Title: Digitate and Tata Chemicals collaborate on spend solutions to power enterprise-grade procurement
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/digitization/digitate-and-tata-chemicals-collaborate-on-spend-solutions-to-power-enterprise-grade-procurement-26863
+Published: Wed, 23 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Pricing
+Summary: AI-powered spend Intelligence solution advances intelligent procurement with near real-time spend classification, optimization, and monitoring...
+
+ARTICLE 50:
+Title: UFlex secures Indian patent for waterborne heat seal coating for food, consumer goods packaging
+Link: https://www.indianchemicalnews.com/https://www.indianchemicalnews.com/rd/uflex-secures-indian-patent-for-waterborne-heat-seal-coating-for-food-consumer-goods-packaging-26864
+Published: Wed, 23 Jul 2025 00:00:00 +0530
+🏷️ Categories: Chemical Products, Innovation & Discovery
+Summary: The coating is designed for heat-sealable applications, offering oil and grease resistance on kraft paper and suitable blister coatings for paper and paperboard...
+
+✅ IndianChemicalNews: Working URL found - https://www.indianchemicalnews.com/feed
+📊 Articles collected: 50
+
+--------------------------------------------------------------------------------
+
+SOURCE: Chemindigest
+==================================================
+Trying: https://chemindigest.com/feed
+✅ SUCCESS! Status: 200
+📰 Total Entries: 10
+
+ARTICLE 1:
+Title: NTPC to Develop Renewable and Battery Storage Projects in Bihar
+Link: https://chemindigest.com/ntpc-to-develop-renewable-and-battery-storage-projects/
+Published: Mon, 28 Jul 2025 07:45:03 +0000
+🏷️ Categories: Innovation & Discovery
+Summary: <p>NTPC Green Energy Ltd (NGEL) is set to establish renewable energy (RE) and battery energy storage system (BESS) projects in Bihar, strengthening its footprint in India’s clean energy landscape. The...
+
+ARTICLE 2:
+Title: Vedanta Aluminium Expands Primary Foundry Alloy Capacity
+Link: https://chemindigest.com/vedanta-aluminium-expands-primary-foundry-alloy-capacity/
+Published: Mon, 28 Jul 2025 07:35:15 +0000
+🏷️ Categories: Supply & Demand, Business News
+Summary: <p>Vedanta Aluminium announced a 120 kilo tons per annum (KTPA) capacity expansion for Primary Foundry Alloy (PFA) production at its Special Economic Zone (SEZ) facility in Jharsuguda, Odisha. The mov...
+
+ARTICLE 3:
+Title: ICT and ITRI Join Hands for Mumbai Biocluster
+Link: https://chemindigest.com/ict-and-itri-join-hands-for-mumbai-biocluster/
+Published: Mon, 28 Jul 2025 07:29:36 +0000
+🏷️ Categories: Innovation & Discovery
+Summary: <p>The Institute of Chemical Technology (ICT), Mumbai, and India’s Translational Research Initiative (ITRI) have signed a formal Expression of Interest (EOI) to jointly catalyse the creation of the Mu...
+
+ARTICLE 4:
+Title: OIL and Assam Government Collaborate for Namrup IV Fertilizer Facility
+Link: https://chemindigest.com/oil-and-assam-government-unite-for-namrup-iv-fertilizer-facility/
+Published: Mon, 28 Jul 2025 07:20:31 +0000
+🏷️ Categories: Chemical Pricing, Chemical Products, Business News, Regulatory
+Summary: <p>Oil India Limited (OIL) has entered into a joint venture with the government of Assam to establish a fertilizer plant in the state, marking a significant step towards bolstering India’s [&#8230;]</...
+
+ARTICLE 5:
+Title: Government Withdraws QCOs on Key Chemicals
+Link: https://chemindigest.com/government-withdraws-qcos-on-key-chemicals/
+Published: Mon, 28 Jul 2025 07:10:47 +0000
+🏷️ Categories: Chemical Products, Regulatory
+Summary: <p>In a move aimed at easing compliance burdens for domestic manufacturers, the government has withdrawn Quality Control Orders (QCOs) for three crucial industrial chemicals: acetic acid, methanol, an...
+
+ARTICLE 6:
+Title: Research: The Key to Advancing Medical Technology
+Link: https://chemindigest.com/research-the-key-to-advancing-medical-technology/
+Published: Mon, 28 Jul 2025 07:02:43 +0000
+🏷️ Categories: Innovation & Discovery
+Summary: <p>Research is essential to deliver better and more advanced treatments, emphasized Uttar Pradesh Deputy Chief Minister Brajesh Pathak during the 19th Foundation Day of the Centre of BioMedical Resear...
+
+ARTICLE 7:
+Title: CSIR Leads Indigenous Innovation Drive for Atmanirbhar Bharat: Dr. N. Kalaiselvi
+Link: https://chemindigest.com/csir-drives-indigenous-innovation-for-atmanirbhar-bharat/
+Published: Mon, 28 Jul 2025 06:44:58 +0000
+🏷️ Categories: Innovation & Discovery
+Summary: <p>The Council of Scientific and Industrial Research (CSIR) is accelerating India’s journey toward self-reliance by driving the development of indigenous technologies. Dr. N. Kalaiselvi, Director Gene...
+
+ARTICLE 8:
+Title: VJTI Mumbai Unveils Centre for Sustainable Chemistry and Engineering
+Link: https://chemindigest.com/vjti-mumbai-launches-centre-for-sustainable-chemistry/
+Published: Mon, 28 Jul 2025 06:25:48 +0000
+🏷️ Categories: Chemical Pricing, Innovation & Discovery
+Summary: <p>VJTI Mumbai inaugurated its Centre for Sustainable Chemistry and Engineering, a flagship CSR initiative by Archroma (India) Pvt. Ltd. Executed in close partnership with the VJTI Alumni Association,...
+
+ARTICLE 9:
+Title: Green Energy Installations Surge
+Link: https://chemindigest.com/green-energy-installations-surge/
+Published: Sat, 26 Jul 2025 07:19:21 +0000
+🏷️ Categories: Business News, Innovation & Discovery
+Summary: <p>India’s renewable energy sector recorded a dramatic 420% year-on-year increase in capacity additions in June 2025, expanding from 1.4 GW in the previous year to 7.3 GW, according to the [&#8230;]</...
+
+ARTICLE 10:
+Title: Bluebird Solar Expands PV Module Production
+Link: https://chemindigest.com/bluebird-solar-expands-pv-module-production/
+Published: Sat, 26 Jul 2025 07:07:58 +0000
+🏷️ Categories: Business News
+Summary: <p>Bluebird Solar is expanding its solar module manufacturing capacity from 1.2 GW to 2.5 GW at its Greater Noida, Uttar Pradesh facility. The production line is expected to be fully [&#8230;]</p>
+<p>...
+
+✅ Chemindigest: Working URL found - https://chemindigest.com/feed
+📊 Articles collected: 10
+
+--------------------------------------------------------------------------------
+
+SOURCE: Chemical Weekly
+==================================================
+Trying: https://chemicalweekly.com/feed/
+❌ Failed (Status: Error)
+Trying: https://chemicalweekly.com/rss
+❌ Failed (Status: Error)
+Trying: https://chemicalweekly.com/rss.xml
+❌ Failed (Status: Error)
+❌ Chemical Weekly: No working URLs found
+
+--------------------------------------------------------------------------------
+
+SOURCE: ICIS News
+==================================================
+Trying: https://www.icis.com/explore/resources/news/feed/
+❌ Failed (Status: Error)
+Trying: https://www.icis.com/explore/resources/news/rss
+❌ Failed (Status: Error)
+❌ ICIS News: No working URLs found
+
+--------------------------------------------------------------------------------
+
+SOURCE: Chemical & Engineering News
+==================================================
+Trying: https://cen.acs.org/rss.xml
+❌ Failed (Status: Error)
+Trying: https://cen.acs.org/feed
+❌ Failed (Status: Error)
+❌ Chemical & Engineering News: No working URLs found
+
+--------------------------------------------------------------------------------
+
+SOURCE: Platts
+==================================================
+Trying: https://www.spglobal.com/platts/en/feed
+❌ Failed (Status: Error)
+Trying: https://www.spglobal.com/platts/en/rss
+❌ Failed (Status: Error)
+❌ Platts: No working URLs found
+
+--------------------------------------------------------------------------------
+
+SOURCE: Reuters
+==================================================
+Trying: https://feeds.reuters.com/reuters/businessNews
+❌ Failed (Status: Error)
+Trying: https://feeds.reuters.com/reuters/technologyNews
+❌ Failed (Status: Error)
+Trying: https://feeds.reuters.com/reuters/scienceNews
+❌ Failed (Status: Error)
+Trying: http://feeds.reuters.com/reuters/businessNews
+❌ Failed (Status: Error)
+❌ Reuters: No working URLs found
+
+--------------------------------------------------------------------------------
+
+SOURCE: ChemistryWorld
+==================================================
+Trying: https://www.chemistryworld.com/rss/feed
+❌ Failed (Status: Error)
+Trying: https://www.chemistryworld.com/feed
+❌ Failed (Status: Error)
+Trying: https://www.chemistryworld.com/rss.xml
+❌ Failed (Status: Error)
+Trying: http://www.chemistryworld.com/rss/feed
+❌ Failed (Status: Error)
+❌ ChemistryWorld: No working URLs found
+
+--------------------------------------------------------------------------------
+
+FINAL SUMMARY:
+Total articles collected: 196
+Chemical industry relevant articles: 97
+Timestamp: 2025-07-28 13:46:39.449636+05:30
